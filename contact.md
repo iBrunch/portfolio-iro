@@ -4,8 +4,6 @@ title: Contact
 permalink: /contact/
 feature-img: "img/color.png"
 ---
-
-<!DOCTYPE html>
 <html class="no-js">
   <head>
 	<meta charset="utf-8">
@@ -45,33 +43,6 @@ feature-img: "img/color.png"
 </head>
 
   <body>
-    <header class="site-header">
-	<div class="branding">
-		
-		<h1 class="site-title">
-			<a href="/portfolio-iro/">Scott Arakawa</a>
-		</h1>
-	</div>
-	<nav class="site-nav">
-		<ul>
-			
-			<li>
-				<a class="page-link" href="/portfolio-iro/about/">
-					About
-				</a>
-			</li>
-			
-			
-			
-			<li>
-				<a class="page-link" href="/portfolio-iro/contact/">
-					Contact
-				</a>
-			</li>
-	
-		</ul>
-	</nav>
-</header>
 
     <div class="content">
       <article class="feature-image">
