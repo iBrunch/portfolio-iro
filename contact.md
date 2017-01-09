@@ -12,3 +12,4 @@ Drop me a line!
 <input type='text' name='name' placeholder='Your Full Name' />
 <input type='email' name='email' placeholder='Your E-mail Address' />
 <textarea name='message' placeholder='Write your message ...'></textarea>
+</form>

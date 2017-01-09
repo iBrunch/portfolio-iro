@@ -1,15 +1,5 @@
-# Portfolio Iro Theme
-## Based on Type Theme
+# Scott Arakawa Web Developer
 
 ![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-iro.png)
 
-A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and easy to customize.
-
-## Get Started
-
-[Demo](https://rohanchandra.github.io/type-theme/)
-
-[Using Type](https://rohanchandra.github.io/project/type/)
-
-## License
-The MIT License (MIT)
+Hi there! This is my portfolio page. Visit [scott-arakawa.com](scott-arakawa.com) to find out more.
